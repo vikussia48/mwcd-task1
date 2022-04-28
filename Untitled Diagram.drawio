@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T21:04:54.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="K4c8M-x1yHBf9SRecvk3" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:42:58.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="b1ktRtschMOVcxGhJj9h" version="17.4.6" type="github">
   <diagram id="GzCIipWq3ORpknATpzXa" name="Page-1">
-    <mxGraphModel dx="1254" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,16 +25,16 @@
         <mxCell id="tkpzPsRGhapKk5cAF0i6-20" value="Place an Order of Goods" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
           <mxGeometry x="440" y="240" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tkpzPsRGhapKk5cAF0i6-21" value="Register with Loyality Programme Company" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
+        <mxCell id="tkpzPsRGhapKk5cAF0i6-21" value="Register with Loyalty Programme Company" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
           <mxGeometry x="60" y="811" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tkpzPsRGhapKk5cAF0i6-22" value="Award points" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
           <mxGeometry x="150" y="600" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tkpzPsRGhapKk5cAF0i6-25" value="Send Loyality Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
-          <mxGeometry x="250" y="701" width="140" height="70" as="geometry" />
+        <mxCell id="tkpzPsRGhapKk5cAF0i6-25" value="Send Loyalty Card" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
+          <mxGeometry x="290" y="681" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tkpzPsRGhapKk5cAF0i6-26" value="Use Loyality Points" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
+        <mxCell id="tkpzPsRGhapKk5cAF0i6-26" value="Use Loyalty Points" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
           <mxGeometry x="20" y="450" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tkpzPsRGhapKk5cAF0i6-29" value="Collect Purchase Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
@@ -86,13 +86,6 @@
             <mxPoint x="240.21724442047775" y="469.60526999907415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tkpzPsRGhapKk5cAF0i6-71" value="&amp;lt;&amp;lt;Incllude&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tkpzPsRGhapKk5cAF0i6-4" source="tkpzPsRGhapKk5cAF0i6-25" target="tkpzPsRGhapKk5cAF0i6-21">
-          <mxGeometry x="-0.1365" y="10" width="160" relative="1" as="geometry">
-            <mxPoint x="130" y="520" as="sourcePoint" />
-            <mxPoint x="110.21724442047594" y="660.3947300009249" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tkpzPsRGhapKk5cAF0i6-75" value="Decline Transaction" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tkpzPsRGhapKk5cAF0i6-4">
           <mxGeometry x="420" y="575" width="140" height="70" as="geometry" />
         </mxCell>
@@ -125,7 +118,7 @@
         <mxCell id="tkpzPsRGhapKk5cAF0i6-11" value="Supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="370" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tkpzPsRGhapKk5cAF0i6-12" value="Loyality Programme&lt;br&gt;Company" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="tkpzPsRGhapKk5cAF0i6-12" value="Loyalty Programme&lt;br&gt;Company" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="850" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tkpzPsRGhapKk5cAF0i6-16" value="Supermarket" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
